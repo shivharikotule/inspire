@@ -1,15 +1,15 @@
 
-## Home Of User
+## Home Page
 ![User Home](https://github.com/vishwajeet1207/ENTNT_TASK/assets/128240302/2d8fff06-5c89-4d99-8ab2-8090007ff558)
 
-## SignUp
+## SignUp for User
 ![Signup](https://github.com/vishwajeet1207/ENTNT_TASK/assets/128240302/a3ccb507-8284-4deb-bd25-c81b322572b1)
 
 ## User Profile
 ![User Profile1](https://github.com/vishwajeet1207/ENTNT_TASK/assets/128240302/e36fc7a4-e2d3-4d63-a060-8fa5a7842d03)
 ![User Profile2](https://github.com/vishwajeet1207/ENTNT_TASK/assets/128240302/1eb494b1-143a-49ed-8f5d-922939ddd6ba)
 
- ## CheckOut
+ ## Check Out
  ![Checkout](https://github.com/vishwajeet1207/ENTNT_TASK/assets/128240302/f59cf2f7-3aff-4bba-850f-885336316a23)
 
  ## Admin Home
